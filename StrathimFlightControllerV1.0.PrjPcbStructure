@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Strathim block-scheme.SchDoc
+Record=SheetSymbol|SourceDocument=Strathim block-scheme.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=[0] Strathim MCU.SchDoc|SymbolType=Normal|RawFileName=[0] Strathim MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Strathim block-scheme.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=[2] Power.SchDoc|SymbolType=Normal|RawFileName=[2] Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Strathim block-scheme.SchDoc|Designator=RAM|SchDesignator=RAM|FileName=[1] NAND FLASH and SDRAM.SchDoc|SymbolType=Normal|RawFileName=[1] NAND FLASH and SDRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
