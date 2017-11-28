@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C14 Old Footprint=CAP0603 New Footprint=CAP0402
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Room: Name=MCU
+Added Room: Name=RAM

@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=PWR Member=C1
+Removed Member From Class: ClassName=PWR Member=C2
+Removed Member From Class: ClassName=PWR Member=C3
+Removed Member From Class: ClassName=PWR Member=C4
+Removed Member From Class: ClassName=PWR Member=C5
+Removed Member From Class: ClassName=MCU Member=C6
+Removed Member From Class: ClassName=MCU Member=C7
+Removed Member From Class: ClassName=MCU Member=C8
+Removed Member From Class: ClassName=MCU Member=C9
+Removed Member From Class: ClassName=MCU Member=C10
+Removed Member From Class: ClassName=MCU Member=C11
+Removed Member From Class: ClassName=MCU Member=C12
+Removed Member From Class: ClassName=MCU Member=C13
+Removed Member From Class: ClassName=MCU Member=C14
+Removed Member From Class: ClassName=MCU Member=C15
+Removed Member From Class: ClassName=MCU Member=C16
+Removed Member From Class: ClassName=MCU Member=C17
+Removed Member From Class: ClassName=MCU Member=C18
+Removed Member From Class: ClassName=MCU Member=C19
+Removed Member From Class: ClassName=MCU Member=C20
+Removed Member From Class: ClassName=MCU Member=C21
+Removed Member From Class: ClassName=MCU Member=C22
+Removed Member From Class: ClassName=MCU Member=C23
+Removed Member From Class: ClassName=MCU Member=C24
+Removed Member From Class: ClassName=MCU Member=C25
+Removed Member From Class: ClassName=MCU Member=C26
+Removed Member From Class: ClassName=MCU Member=C27
+Removed Member From Class: ClassName=MCU Member=C28
+Removed Member From Class: ClassName=MCU Member=C29
+Removed Member From Class: ClassName=PWR Member=R3
+Removed Member From Class: ClassName=PWR Member=R4
+Removed Member From Class: ClassName=PWR Member=R5
+Removed Member From Class: ClassName=PWR Member=R6
+Removed Member From Class: ClassName=PWR Member=R8
+Removed Member From Class: ClassName=PWR Member=R9
+Removed Member From Class: ClassName=MCU Member=R11
+Removed Member From Class: ClassName=MCU Member=R12
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RES0603 220R 1% New DesignItemId=RES0402 330R 1%
+Change Component Footprint: Designator=R4 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R4 Old Comment=RES0603 220R 1% New Comment=RES0402 330R 1%
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

@@ -1,0 +1,64 @@
+Added Component: Designator=C14(CAP0603)
+Added Component: Designator=P1(WR-CRD SD Micro)
+Added Component: Designator=R?(RES0805)
+Added Component: Designator=R?(RES0805)
+Added Component: Designator=R?(RES0805)
+Added Component: Designator=R?(RES0805)
+Added Component: Designator=R?(RES0805)
+Added Component: Designator=R?(RES0805)
+Added Pin To Net: NetName=+3V3 Pin=C14-2
+Added Pin To Net: NetName=+3V3 Pin=P1-5
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=MCU_TDI Pin=U1-A13
+Added Net: Name=MCU_TDI
+Added Pin To Net: NetName=SDMMC_CK Pin=P1-4
+Added Pin To Net: NetName=SDMMC_CK Pin=R?-1
+Added Pin To Net: NetName=SDMMC_CK Pin=U1-A12
+Added Net: Name=SDMMC_CK
+Added Pin To Net: NetName=SDMMC_CMD Pin=P1-6
+Added Pin To Net: NetName=SDMMC_CMD Pin=R?-1
+Added Pin To Net: NetName=SDMMC_CMD Pin=U1-D12
+Added Net: Name=SDMMC_CMD
+Added Pin To Net: NetName=SDMMC_D0 Pin=P1-2
+Added Pin To Net: NetName=SDMMC_D0 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D0 Pin=U1-G14
+Added Net: Name=SDMMC_D0
+Added Pin To Net: NetName=SDMMC_D1 Pin=P1-1
+Added Pin To Net: NetName=SDMMC_D1 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D1 Pin=U1-F14
+Added Net: Name=SDMMC_D1
+Added Pin To Net: NetName=SDMMC_D2 Pin=P1-8
+Added Pin To Net: NetName=SDMMC_D2 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D2 Pin=U1-B14
+Added Net: Name=SDMMC_D2
+Added Pin To Net: NetName=SDMMC_D3 Pin=P1-7
+Added Pin To Net: NetName=SDMMC_D3 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D3 Pin=U1-B13
+Added Net: Name=SDMMC_D3
+Added Pin To Net: NetName=SWCLK Pin=U1-A14
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U1-A15
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=U1-A10
+Added Net: Name=SWO
+Added Class: Name=RAM
+Added Class: Name=SDMMC
+Added Member To Class: ClassName=MCU Member=Component C14 ChipCap 0.1u X7R
+Added Member To Class: ClassName=MCU Member=Component P1 Micro SD Card Connector
+Added Member To Class: ClassName=MCU Member=Component R? RES0805 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0805 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0805 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0805 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0805 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0805 10K 1%
+Added Room: Name=MCU
+Added Room: Name=RAM

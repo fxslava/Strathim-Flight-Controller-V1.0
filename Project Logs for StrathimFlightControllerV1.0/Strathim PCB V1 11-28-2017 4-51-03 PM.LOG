@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetC10_2 Pin=C10-2
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Removed Pin From Net: NetName=SDMMC_D3 Pin=R?-1
+Removed Pin From Net: NetName=+3V3 Pin=R?-2
+Removed Pin From Net: NetName=NetC10_2 Pin=U1-E1
+Removed Pin From Net: NetName=NetC11_2 Pin=U1-F1
+Removed Pin From Net: NetName=NetC11_2 Pin=X?-2
+Change Component DesignItemId : Designator=R? Old DesignItemId=ChipRes 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component DesignItemId : Designator=X? Old DesignItemId=Crystall oscillator New DesignItemId=ABM3 Ceramic SMD Crystal
+Change Component DesignItemId : Designator=R? Old DesignItemId=RES0402 10K 1% New DesignItemId=ChipRes 10K 1%
+Change Component Footprint: Designator=R? Old Footprint=RES0402 New Footprint=RES0805
+Change Component Footprint: Designator=R? Old Footprint=RES0805 New Footprint=RES0402
+Change Component Comment : Designator=R? Old Comment=ChipRes 10K 1% New Comment=RES0402 10K 1%
+Change Component Comment : Designator=R? Old Comment=RES0402 10K 1% New Comment=ChipRes 10K 1%
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C14 NewDesignator=C?
+Added Component: Designator=R?(RES0402)
+Added Component: Designator=X?(KX-327NHT)
+Added Pin To Net: NetName=NetC11_2 Pin=J?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=NetC11_2 Pin=R?-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-E5
+Added Pin To Net: NetName=NetC10_2 Pin=U1-J1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NRESET
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetJ?_2
+Added Member To Class: ClassName=MCU Member=Component C? ChipCap 18 NP0
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component J? Jumper
+Added Member To Class: ClassName=MCU Member=Component R? RES0603 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0603 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0603 220R 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=PWR Member=Component R? ChipRes 10K 1%
+Added Member To Class: ClassName=MCU Member=Component X? XTAL
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

@@ -1,0 +1,115 @@
+Removed Member From Class: ClassName=PWR Member=C?
+Removed Member From Class: ClassName=PWR Member=R?
+Removed Member From Class: ClassName=RAM Member=NetC?_2
+Removed Member From Class: ClassName=RAM Member=NetR?_1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR4_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-E1
+Added Pin To Net: NetName=NetC1_2 Pin=X1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-F1
+Added Pin To Net: NetName=NetC2_2 Pin=X1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-H1
+Added Pin To Net: NetName=NetC3_2 Pin=X2-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-L11
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-E11
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R11-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-E5
+Added Net: Name=NetJ1_2
+Added Member To Class: ClassName=MCU Member=Component C2 ChipCap 12 NP0
+Added Member To Class: ClassName=MCU Member=Component C3 ChipCap 18 NP0
+Added Member To Class: ClassName=MCU Member=Component C4 ChipCap 18 NP0
+Added Member To Class: ClassName=MCU Member=Component C5 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C6 ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C7 ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C8 ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C9 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C10 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C11 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C12 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C13 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C14 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C15 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C16 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C17 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C18 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C19 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C20 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C21 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C22 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C23 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C24 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C25 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C26 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C27 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C28 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C29 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component J1 Jumper
+Added Member To Class: ClassName=MCU Member=Component R1 RES0603 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R2 RES0603 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R3 RES0603 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R4 RES0603 220R 1%
+Added Member To Class: ClassName=MCU Member=Component R5 RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R7 RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R8 RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R9 RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R10 RES0402 10K 1%
+Added Member To Class: ClassName=PWR Member=Component R11 ChipRes 10K 1%
+Added Member To Class: ClassName=PWR Member=Component R12 ChipRes 10K 1%
+Added Member To Class: ClassName=RAM Member=Wire NetC4_2
+Added Member To Class: ClassName=RAM Member=Wire NetR4_1

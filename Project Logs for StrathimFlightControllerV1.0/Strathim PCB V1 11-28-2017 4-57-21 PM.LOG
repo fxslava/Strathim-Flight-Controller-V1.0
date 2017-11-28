@@ -1,0 +1,43 @@
+Change Component Footprint: Designator=R? Old Footprint=RES0402 New Footprint=RES0805
+Change Component Footprint: Designator=R? Old Footprint=RES0805 New Footprint=RES0402
+Change Component Comment : Designator=R? Old Comment=ChipRes 10K 1% New Comment=RES0402 10K 1%
+Change Component Comment : Designator=R? Old Comment=RES0402 10K 1% New Comment=ChipRes 10K 1%
+Added Member To Class: ClassName=MCU Member=Component C? ChipCap 12 NP0
+Added Member To Class: ClassName=MCU Member=Component C? ChipCap 12 NP0
+Added Member To Class: ClassName=MCU Member=Component C? ChipCap 18 NP0
+Added Member To Class: ClassName=MCU Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C? ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component J? Jumper
+Added Member To Class: ClassName=MCU Member=Component R? RES0603 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0603 220R 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0603 10K 1%
+Added Member To Class: ClassName=PWR Member=Component R? ChipRes 10K 1%
+Added Member To Class: ClassName=MCU Member=Component X? XTAL

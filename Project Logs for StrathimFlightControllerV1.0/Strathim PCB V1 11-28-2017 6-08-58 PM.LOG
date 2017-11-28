@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAP0805 New Footprint=CAP0603
+Change Component Footprint: Designator=C8 Old Footprint=CAP0805 New Footprint=CAP0603
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

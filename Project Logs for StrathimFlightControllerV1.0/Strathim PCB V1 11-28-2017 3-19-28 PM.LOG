@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Room: Name=MCU
+Added Room: Name=RAM

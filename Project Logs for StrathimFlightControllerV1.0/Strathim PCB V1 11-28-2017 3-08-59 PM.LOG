@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=SDMMC_CK Pin=R?-1
+Removed Pin From Net: NetName=SDMMC_CMD Pin=R?-1
+Removed Pin From Net: NetName=SDMMC_D0 Pin=R?-1
+Removed Pin From Net: NetName=SDMMC_D1 Pin=R?-1
+Removed Pin From Net: NetName=SDMMC_D2 Pin=R?-1
+Removed Pin From Net: NetName=SDMMC_D3 Pin=R?-1
+Removed Pin From Net: NetName=+3V3 Pin=R?-2
+Removed Pin From Net: NetName=+3V3 Pin=R?-2
+Removed Pin From Net: NetName=+3V3 Pin=R?-2
+Removed Pin From Net: NetName=+3V3 Pin=R?-2
+Removed Pin From Net: NetName=+3V3 Pin=R?-2
+Change Component DesignItemId : Designator=R? Old DesignItemId=RES0805 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component Footprint: Designator=R? Old Footprint=RES0805 New Footprint=RES0402
+Change Component Comment : Designator=R? Old Comment=RES0805 10K 1% New Comment=RES0402 10K 1%
+Added Component: Designator=R?(RES0402)
+Added Component: Designator=R?(RES0402)
+Added Component: Designator=R?(RES0402)
+Added Component: Designator=R?(RES0402)
+Added Component: Designator=R?(RES0402)
+Added Pin To Net: NetName=SDMMC_CK Pin=R?-1
+Added Pin To Net: NetName=SDMMC_CMD Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D0 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D1 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D2 Pin=R?-1
+Added Pin To Net: NetName=SDMMC_D3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Member To Class: ClassName=MCU Member=Component R? RES0402 10K 1%
+Added Room: Name=MCU
+Added Room: Name=RAM
