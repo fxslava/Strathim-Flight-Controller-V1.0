@@ -1,0 +1,124 @@
+Added Component: Designator=C34(CAP0201)
+Added Component: Designator=C35(CAP0201)
+Added Component: Designator=C36(CAP0201)
+Added Component: Designator=C37(CAP0201)
+Added Component: Designator=C38(CAP0201)
+Added Component: Designator=C39(CAP0201)
+Added Component: Designator=C40(CAP0201)
+Added Component: Designator=C41(CAP0201)
+Added Component: Designator=C42(CAP0201)
+Added Component: Designator=C43(CAP0201)
+Added Component: Designator=C44(CAP0201)
+Added Component: Designator=C45(CAP0201)
+Added Component: Designator=C46(CAP0201)
+Added Component: Designator=C47(CAP0201)
+Added Component: Designator=C48(CAP0201)
+Added Component: Designator=C49(CAP0201)
+Added Component: Designator=C50(CAP0201)
+Added Component: Designator=C51(CAP0201)
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=+3V3 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=+3V3 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=+3V3 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=+3V3 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=+3V3 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+3V3 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=+3V3 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=+3V3 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=+3V3 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=+3V3 Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=+3V3 Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=+3V3 Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=+3V3 Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=+3V3 Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=+3V3 Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=+3V3 Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=+3V3 Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=+3V3 Pin=C51-2
+Added Pin To Net: NetName=GND Pin=U2-A3
+Added Pin To Net: NetName=+3V3 Pin=U2-A7
+Added Pin To Net: NetName=+3V3 Pin=U2-B2
+Added Pin To Net: NetName=GND Pin=U2-B3
+Added Pin To Net: NetName=+3V3 Pin=U2-B7
+Added Pin To Net: NetName=GND Pin=U2-B8
+Added Pin To Net: NetName=GND Pin=U2-C1
+Added Pin To Net: NetName=+3V3 Pin=U2-C9
+Added Pin To Net: NetName=GND Pin=U2-D1
+Added Pin To Net: NetName=+3V3 Pin=U2-D9
+Added Pin To Net: NetName=+3V3 Pin=U2-E1
+Added Pin To Net: NetName=GND Pin=U2-E9
+Added Pin To Net: NetName=GND Pin=U2-F1
+Added Pin To Net: NetName=+3V3 Pin=U2-F9
+Added Pin To Net: NetName=+3V3 Pin=U2-L1
+Added Pin To Net: NetName=GND Pin=U2-L3
+Added Pin To Net: NetName=+3V3 Pin=U2-L7
+Added Pin To Net: NetName=GND Pin=U2-L9
+Added Pin To Net: NetName=GND Pin=U2-M1
+Added Pin To Net: NetName=+3V3 Pin=U2-M9
+Added Pin To Net: NetName=GND Pin=U2-N1
+Added Pin To Net: NetName=+3V3 Pin=U2-N9
+Added Pin To Net: NetName=+3V3 Pin=U2-P2
+Added Pin To Net: NetName=GND Pin=U2-P3
+Added Pin To Net: NetName=+3V3 Pin=U2-P7
+Added Pin To Net: NetName=GND Pin=U2-P8
+Added Pin To Net: NetName=GND Pin=U2-R3
+Added Pin To Net: NetName=+3V3 Pin=U2-R7
+Added Pin To Net: NetName=GND Pin=U3-C5
+Added Pin To Net: NetName=+3V3 Pin=U3-D3
+Added Pin To Net: NetName=GND Pin=U3-F7
+Added Pin To Net: NetName=+3V3 Pin=U3-G4
+Added Pin To Net: NetName=+3V3 Pin=U3-H8
+Added Pin To Net: NetName=+3V3 Pin=U3-J6
+Added Pin To Net: NetName=GND Pin=U3-K3
+Added Pin To Net: NetName=GND Pin=U3-K8
+Added Member To Class: ClassName=MCU Member=Component C1 ChipCap 12 NP0
+Added Member To Class: ClassName=PWR Member=Component C30 ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C31 ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C32 ChipCap 22u X7R
+Added Member To Class: ClassName=PWR Member=Component C33 ChipCap 22u X7R
+Added Member To Class: ClassName=RAM Member=Component C34 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C35 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C36 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C37 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C38 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C39 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C40 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C41 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C42 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C43 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C44 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C45 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C46 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C47 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C48 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C49 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C50 ChipCap 0.1u X7R
+Added Member To Class: ClassName=RAM Member=Component C51 ChipCap 0.1u X7R
+Added Member To Class: ClassName=PWR Member=Component J2 Jumper
+Added Member To Class: ClassName=MCU Member=Component P1 Micro SD Card Connector
+Added Member To Class: ClassName=MCU Member=Component R6 RES0402 10K 1%
+Added Member To Class: ClassName=PWR Member=Component R12 ChipRes 10K 1%
+Added Member To Class: ClassName=MCU Member=Component TP1 Test Point 5x2
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F746NGH6
+Added Member To Class: ClassName=RAM Member=Component U2 MT48LC4M32B2B5-6A IT:L
+Added Member To Class: ClassName=RAM Member=Component U3 MT29F1G08ABADAH4-IT:D
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM
