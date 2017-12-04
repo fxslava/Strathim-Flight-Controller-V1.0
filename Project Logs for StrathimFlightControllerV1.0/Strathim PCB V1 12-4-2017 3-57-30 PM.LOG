@@ -1,0 +1,85 @@
+Added Pin To Net: NetName=ADC1_IMON Pin=U1-N2
+Added Net: Name=ADC1_IMON
+Added Pin To Net: NetName=ADC1_IN Pin=U1-B15
+Added Net: Name=ADC1_IN
+Added Pin To Net: NetName=ADC1_RSSI Pin=U1-P2
+Added Net: Name=ADC1_RSSI
+Added Pin To Net: NetName=ADC1_VMON Pin=U1-N3
+Added Net: Name=ADC1_VMON
+Added Pin To Net: NetName=QUADSPI_BK1_IO0 Pin=U1-L3
+Added Net: Name=QUADSPI_BK1_IO0
+Added Pin To Net: NetName=QUADSPI_BK1_IO1 Pin=U1-L2
+Added Net: Name=QUADSPI_BK1_IO1
+Added Pin To Net: NetName=QUADSPI_BK1_IO2 Pin=U1-A3
+Added Net: Name=QUADSPI_BK1_IO2
+Added Pin To Net: NetName=QUADSPI_BK1_IO3 Pin=U1-M11
+Added Net: Name=QUADSPI_BK1_IO3
+Added Pin To Net: NetName=QUADSPI_CLK Pin=U1-M5
+Added Net: Name=QUADSPI_CLK
+Added Pin To Net: NetName=QUADSPI_NCS Pin=U1-B6
+Added Net: Name=QUADSPI_NCS
+Added Pin To Net: NetName=SERVO_CH0 Pin=U1-F15
+Added Net: Name=SERVO_CH0
+Added Pin To Net: NetName=SERVO_CH1 Pin=U1-E15
+Added Net: Name=SERVO_CH1
+Added Pin To Net: NetName=SERVO_CH2 Pin=U1-D15
+Added Net: Name=SERVO_CH2
+Added Pin To Net: NetName=SERVO_CH3 Pin=U1-C15
+Added Net: Name=SERVO_CH3
+Added Pin To Net: NetName=SERVO_CH4 Pin=U1-P3
+Added Net: Name=SERVO_CH4
+Added Pin To Net: NetName=SERVO_CH5 Pin=U1-R3
+Added Net: Name=SERVO_CH5
+Added Pin To Net: NetName=SERVO_CH6 Pin=U1-R5
+Added Net: Name=SERVO_CH6
+Added Pin To Net: NetName=SERVO_CH7 Pin=U1-R4
+Added Net: Name=SERVO_CH7
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-A9
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=U1-A8
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_NSS Pin=U1-N4
+Added Net: Name=SPI1_NSS
+Added Pin To Net: NetName=SPI1_SCK Pin=U1-P4
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SPI2_MISO Pin=U1-M4
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_MOSI Pin=U1-M3
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_NSS Pin=U1-B4
+Added Net: Name=SPI2_NSS
+Added Pin To Net: NetName=SPI2_SCK Pin=U1-K14
+Added Net: Name=SPI2_SCK
+Added Pin To Net: NetName=SPI4_MISO Pin=U1-B1
+Added Net: Name=SPI4_MISO
+Added Pin To Net: NetName=SPI4_MOSI Pin=U1-B2
+Added Net: Name=SPI4_MOSI
+Added Pin To Net: NetName=SPI4_NSS Pin=U1-A1
+Added Net: Name=SPI4_NSS
+Added Pin To Net: NetName=SPI4_SCK Pin=U1-R2
+Added Net: Name=SPI4_SCK
+Added Pin To Net: NetName=SPI6_MISO Pin=U1-C7
+Added Net: Name=SPI6_MISO
+Added Pin To Net: NetName=SPI6_MOSI Pin=U1-A4
+Added Net: Name=SPI6_MOSI
+Added Pin To Net: NetName=SPI6_SCK Pin=U1-B3
+Added Net: Name=SPI6_SCK
+Added Pin To Net: NetName=USART1_RX Pin=U1-B5
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART6_RX Pin=U1-G15
+Added Net: Name=USART6_RX
+Added Pin To Net: NetName=USART6_TX Pin=U1-H15
+Added Net: Name=USART6_TX
+Added Pin To Net: NetName=USART7_RX Pin=U1-K2
+Added Net: Name=USART7_RX
+Added Pin To Net: NetName=USART7_TX Pin=U1-K1
+Added Net: Name=USART7_TX
+Added Pin To Net: NetName=USB_HS_DM Pin=U1-R14
+Added Net: Name=USB_HS_DM
+Added Pin To Net: NetName=USB_HS_DP Pin=U1-R15
+Added Net: Name=USB_HS_DP
+Added Pin To Net: NetName=USB_HS_ID Pin=U1-L13
+Added Net: Name=USB_HS_ID
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM
