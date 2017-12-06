@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=QUADSPI_NCS Pin=P11-2
+Removed Pin From Net: NetName=QUADSPI_NCS Pin=P12-2
+Removed Pin From Net: NetName=QUADSPI_NCS Pin=U7-3
+Removed Pin From Net: NetName=USART1_RX Pin=U7-5
+Removed Pin From Net: NetName=QUADSPI_NCS Pin=U8-3
+Removed Pin From Net: NetName=USART1_RX Pin=U8-5
+Added Pin To Net: NetName=USART3_TX Pin=P11-2
+Added Pin To Net: NetName=USART6_TX Pin=P12-2
+Added Pin To Net: NetName=USART3_TX Pin=U7-3
+Added Pin To Net: NetName=USART3_RX Pin=U7-5
+Added Pin To Net: NetName=USART6_TX Pin=U8-3
+Added Pin To Net: NetName=USART6_RX Pin=U8-5
+Added Room: Name=Connectors
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM
