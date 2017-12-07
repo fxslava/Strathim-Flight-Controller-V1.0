@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NAND_NWE Pin=U1-J3
+Removed Pin From Net: NetName=NAND_NWE Pin=U2-K8
+Added Pin To Net: NetName=SDRAM_NWE Pin=U1-J3
+Added Pin To Net: NetName=SDRAM_NWE Pin=U2-K8
+Added Net: Name=SDRAM_NWE
+Added Member To Class: ClassName=RAM Member=Wire SDRAM_NWE
+Added Room: Name=Connectors
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM
