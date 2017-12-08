@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=IMU Member=Component C61 ChipCap 0.1u X7R
+Added Room: Name=Connectors
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

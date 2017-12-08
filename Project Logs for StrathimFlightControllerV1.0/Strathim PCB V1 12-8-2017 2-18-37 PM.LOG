@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R19 Old DesignItemId=ChipRes 47K 1% New DesignItemId=RES0402 0R 1%
+Change Component DesignItemId : Designator=R19 Old DesignItemId=RES0402 0R 1% New DesignItemId=ChipRes 47K 1%
+Change Component Footprint: Designator=R19 Old Footprint=RES0402 New Footprint=RES0603
+Change Component Footprint: Designator=R19 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R19 Old Comment=ChipRes 47K 1% New Comment=RES0402 0R 1%
+Change Component Comment : Designator=R19 Old Comment=RES0402 0R 1% New Comment=ChipRes 47K 1%

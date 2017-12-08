@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V3 Pin=R11-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=R11-2
+Removed Pin From Net: NetName=+3V3 Pin=R12-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=R12-2
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ChipRes 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component DesignItemId : Designator=R12 Old DesignItemId=ChipRes 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component Footprint: Designator=R11 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Footprint: Designator=R12 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Comment : Designator=R11 Old Comment=ChipRes 10K 1% New Comment=RES0402 10K 1%
+Change Component Comment : Designator=R12 Old Comment=ChipRes 10K 1% New Comment=RES0402 10K 1%
+Added Pin To Net: NetName=NetJ1_2 Pin=R11-1
+Added Pin To Net: NetName=+3V3 Pin=R11-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R12-1
+Added Pin To Net: NetName=+3V3 Pin=R12-2

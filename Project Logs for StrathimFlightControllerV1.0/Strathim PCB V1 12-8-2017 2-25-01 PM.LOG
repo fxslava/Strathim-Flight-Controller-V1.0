@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VBUS Pin=P13-1
+Removed Pin From Net: NetName=VBUS Pin=R16-2
+Added Component: Designator=R22(RES0603)
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=USB_VBUS Pin=C64-1
+Added Pin To Net: NetName=USB_VBUS Pin=C65-1
+Added Pin To Net: NetName=USB_VBUS Pin=P13-1
+Added Pin To Net: NetName=USB_VBUS Pin=R16-2
+Added Pin To Net: NetName=USB_VBUS Pin=R22-2
+Added Pin To Net: NetName=USB_VBUS Pin=U14-3
+Added Net: Name=USB_VBUS
+Added Member To Class: ClassName=Connectors Member=Component R19 RES0402 0R 1%
+Added Member To Class: ClassName=PWR Member=Component R22 ChipRes 47K 1%
+Added Room: Name=Connectors
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

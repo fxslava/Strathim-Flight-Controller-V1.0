@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RES0603 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES0603 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES0603 10K 1% New DesignItemId=RES0402 10K 1%
+Change Component Footprint: Designator=R1 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R2 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R3 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R1 Old Comment=RES0603 10K 1% New Comment=RES0402 10K 1%
+Change Component Comment : Designator=R2 Old Comment=RES0603 10K 1% New Comment=RES0402 10K 1%
+Change Component Comment : Designator=R3 Old Comment=RES0603 10K 1% New Comment=RES0402 10K 1%
+Added Room: Name=Connectors
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

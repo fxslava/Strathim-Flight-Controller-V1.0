@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Added Component: Designator=R21(RES0603)
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=FEEDBACK Pin=R21-2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR22_1
+Added Member To Class: ClassName=PWR Member=Component R21 ChipRes 10K 1%

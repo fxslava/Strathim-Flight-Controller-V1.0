@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+3V3 Pin=R15-1
+Removed Pin From Net: NetName=NetLED6_2 Pin=R15-2
+Removed Pin From Net: NetName=USB_HS_N Pin=R17-1
+Removed Pin From Net: NetName=USBCON_N Pin=R17-2
+Removed Pin From Net: NetName=USB_HS_P Pin=R18-1
+Removed Pin From Net: NetName=USBCON_P Pin=R18-2
+Removed Pin From Net: NetName=USB_HS_ID Pin=R19-1
+Removed Pin From Net: NetName=NetP13_4 Pin=R19-2
+Change Component DesignItemId : Designator=R16 Old DesignItemId=ChipRes 47K 1% New DesignItemId=RES0402 47K 1%
+Change Component DesignItemId : Designator=R15 Old DesignItemId=ChipRes 330R 1% New DesignItemId=RES0402 330R 1%
+Change Component DesignItemId : Designator=R17 Old DesignItemId=ChipRes New DesignItemId=RES0402 0R 1%
+Change Component DesignItemId : Designator=R18 Old DesignItemId=ChipRes New DesignItemId=RES0402 0R 1%
+Change Component DesignItemId : Designator=R19 Old DesignItemId=ChipRes New DesignItemId=RES0402 0R 1%
+Change Component Footprint: Designator=R15 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Footprint: Designator=R16 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Footprint: Designator=R17 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Footprint: Designator=R18 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Footprint: Designator=R19 Old Footprint=RES0805 New Footprint=RES0402
+Change Component Comment : Designator=R16 Old Comment=ChipRes 47K 1% New Comment=RES0402 47K 1%
+Change Component Comment : Designator=R15 Old Comment=ChipRes 330R 1% New Comment=RES0402 330R 1%
+Change Component Comment : Designator=R17 Old Comment=ChipRes New Comment=RES0402 0R 1%
+Change Component Comment : Designator=R18 Old Comment=ChipRes New Comment=RES0402 0R 1%
+Change Component Comment : Designator=R19 Old Comment=ChipRes New Comment=RES0402 0R 1%
+Added Pin To Net: NetName=NetLED6_2 Pin=R15-1
+Added Pin To Net: NetName=+3V3 Pin=R15-2
+Added Pin To Net: NetName=USBCON_N Pin=R17-1
+Added Pin To Net: NetName=USB_HS_N Pin=R17-2
+Added Pin To Net: NetName=USBCON_P Pin=R18-1
+Added Pin To Net: NetName=USB_HS_P Pin=R18-2
+Added Pin To Net: NetName=NetP13_4 Pin=R19-1
+Added Pin To Net: NetName=USB_HS_ID Pin=R19-2

@@ -1,0 +1,7 @@
+Added Component: Designator=U14(SOT23-6)
+Added Pin To Net: NetName=GND Pin=U14-1
+Added Pin To Net: NetName=SW Pin=U14-2
+Added Pin To Net: NetName=FEEDBACK Pin=U14-4
+Added Pin To Net: NetName=NetR19_1 Pin=U14-5
+Added Pin To Net: NetName=NetC63_2 Pin=U14-6
+Added Member To Class: ClassName=PWR Member=Component U14 TPS563200

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USB_HS_ID Pin=R19-2
+Removed Member From Class: ClassName=Connectors Member=R19
+Added Pin To Net: NetName=USART7_RX Pin=P10-2
+Added Pin To Net: NetName=USART3_RX Pin=P11-2
+Added Pin To Net: NetName=USART6_RX Pin=P12-2
+Added Pin To Net: NetName=USART7_RX Pin=U6-2
+Added Pin To Net: NetName=USART3_RX Pin=U7-2
+Added Pin To Net: NetName=USART6_RX Pin=U8-2

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=QUADSPI_NCS Pin=P10-1
+Removed Pin From Net: NetName=QUADSPI_NCS Pin=U6-3
+Removed Member From Class: ClassName=USART1 Member=QUADSPI_NCS
+Removed Member From Class: ClassName=USART1 Member=USART1_RX
+Added Component: Designator=C61(CAP0402)
+Added Component: Designator=C62(CAP0402)
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=+3V3 Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=USART7_TX Pin=P10-1
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-A7
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-B5
+Added Pin To Net: NetName=USART7_TX Pin=U6-3
+Added Pin To Net: NetName=USART7_RX Pin=U6-5
+Added Pin To Net: NetName=I2C3_SCL Pin=U1-N13
+Added Net: Name=I2C3_SCL
+Added Pin To Net: NetName=NetC62_2 Pin=C62-2
+Added Net: Name=NetC62_2
+Change Class Name : Old Net Name=USART1 New Net Name=I2C1
+Added Member To Class: ClassName=IMU Member=Component C61 ChipCap 0.1u X7R
+Added Member To Class: ClassName=IMU Member=Component C62 ChipCap 0.1u X7R
+Added Member To Class: ClassName=I2C1 Member=Wire I2C1_SCL
+Added Member To Class: ClassName=I2C1 Member=Wire I2C1_SDA
+Added Room: Name=Connectors
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RAM

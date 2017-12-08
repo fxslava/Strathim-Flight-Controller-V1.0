@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR19_1 Pin=R19-1
+Change Component DesignItemId : Designator=R19 Old DesignItemId=ChipRes 47K 1% New DesignItemId=RES0402 0R 1%
+Change Component Footprint: Designator=R19 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R19 Old Comment=ChipRes 47K 1% New Comment=RES0402 0R 1%
+Added Component: Designator=R19(RES0603)
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=USB_HS_ID Pin=R19-2
+Added Pin To Net: NetName=NetP13_4 Pin=P13-4
+Added Pin To Net: NetName=NetP13_4 Pin=R19-1
+Added Net: Name=NetP13_4
+Added Member To Class: ClassName=Connectors Member=Component R19 RES0402 0R 1%
